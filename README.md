@@ -7,8 +7,7 @@ This project demonstrates strong fundamentals in DOM manipulation, event handlin
 
 ## Demo
 
-![Calculator](calculator.gif)
-
+![Calculator Demo](calculator.gif)
 ---
 
 ## Features
