@@ -33,13 +33,12 @@ This project demonstrates strong fundamentals in DOM manipulation, event handlin
 
 ## Project Structure
 
-calculator-project/
+Calculator/
 │── index.html
 │── style.css
 │── script.js
 │── calculator.gif
 │── README.md
-
 
 ---
 
